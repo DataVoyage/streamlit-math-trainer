@@ -16,7 +16,7 @@ SESSION_STATE_KEY = 'game_state'
 
 # Game parameters
 TOTAL_ROUNDS = 20
-SESSION_TIME_LIMIT_SECONDS = 300  # 5 minutes for the whole session
+SESSION_TIME_LIMIT_SECONDS = 600  # 10 minutes for the whole session
 
 # --- NEW: Phase and Point constants ---
 PHASE_1_RANGE = (1, 10)  # Small multiplication table
